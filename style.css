@@ -1,0 +1,36 @@
+  .heading
+  {
+    font-size: x-large;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(50, 50, 50);
+  }
+  .heading_div
+  {
+    float: none;
+    font-size: large; 
+    border-radius: 20px; 
+    color: rgb(50, 50, 50);
+    box-shadow:5px 5px 5px rgb(50, 50, 50);
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_label
+  {
+    box-shadow:5px 5px 5px rgb(50, 50, 50);
+    font-size: 20px;
+  }
+  .copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 20;
+    line-height: 4;
+    z-index: 999999999999999999999999999999999999999;
+    background-color: chartreuse;
+  }
+  .result_label span{
+    white-space: pre-line;
+  }
+ 
